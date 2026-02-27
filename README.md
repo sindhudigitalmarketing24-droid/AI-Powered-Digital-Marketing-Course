@@ -2,7 +2,7 @@
 Digital marketing is evolving at an unprecedented pace. What once depended primarily on manual research, intuition, and repetitive campaign management is now powered by intelligent systems. Artificial Intelligence (AI) has become a core component of modern marketing strategies, transforming how businesses analyze data, target audiences, create content, and optimize campaigns.
 
 An AI-Powered Digital Marketing Course is designed to help learners understand not only traditional digital marketing principles but also how AI enhances efficiency, precision, and performance in real-world marketing environments.
-If you want structured training, you can explore the AI-Powered Digital Marketing Course offered by [ODMT](https://your-odmt-link.com).
+If you want structured training, you can explore the AI-Powered Digital Marketing Course offered by [ODMT](https://www.odmt.in/)
 
 ## The Shift from Traditional to AI-Driven Marketing
 Traditional digital marketing focuses on SEO, social media marketing, paid advertising, email campaigns, and content strategy. While these foundations remain important, execution has changed dramatically.
